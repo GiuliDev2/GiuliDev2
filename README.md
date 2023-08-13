@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Giuliano</h1>
+<h1 align="center">Hi 👋, I'm GiuliDev</h1>
 <h3 align="center">I am a 12-year-old boy who likes to Program</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giulidev2" alt="giulidev2" /></a> </p>
+- I am Testing and Programming my project [FNF Pocket Engine](https://github.com/GiuliDev2/FNF-Pocket-Engine)
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- I love programming in [Pocket Code](https://play.google.com/store/apps/details?id=org.catrobat.catroid)
+
+- 👨‍💻 All of my projects are available at my Account [GiuliDev2](GiuliDev2)
+
+- 💬 Ask me about **pocket code guide**
 
 - 📫 How to reach me **giulianobisoalcoba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/giulidevoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giulidevoficial" height="30" width="40" /></a>
+<a href="https://instagram.com/alcobagiulianobiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alcobagiulianobiso" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/giulidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="giulidev" height="30" width="40" /></a>
 </p>
 
