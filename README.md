@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giuli</h1>
-<h3 align="center">A Indies Games Developer from Argentina</h3>
+<h3 align="center">A Indies Games Developer from Argentina</h3><p align="center"><img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e6-1f1f7.png" width=55 /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giulianoa23&label=Profile%20views&color=0e75b6&style=flat" alt="giulianoa23" /> </p>
 
